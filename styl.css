@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Epilogue, helvetica;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.nav {
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    align-items: center;
+}
+
+.nav ul {
+    display: flex;
+    gap: 35px;
+}
+
+.navbar {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.navbar-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-title h1 {
+    width: 495px;
+    margin: 5rem auto;
+    font-size: 80px;
+    line-height: 90px;
+}
+
+.navbar-title p {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.index-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+.index {
+    margin: 3rem auto;
+}
+
+.index-line {
+    width: 1139px;
+    height: 2px;
+    color: rgb(75, 73, 73);
+    background-color: rgb(75, 73, 73);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 2rem auto;
+}
+
+.box-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1280px;
+    height: 688px;
+    gap: 56px;
+}
+
+.box {
+    width: 249px;
+    height: 328px;
+    justify-content: space-between;
+    align-items: ;
+}
+
+.box p {
+    margin: 2rem auto;
+}
+
+.box h1 {
+    margin: 2rem auto;
+    justify-content: center;
+}
+
+.main {
+    width: 100%;
+    margin: 3rem auto;
+}
+
+.main-title {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 2rem;
+}
+
+.main-cards {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.main-card {
+    width: 315px;
+    height: 407px;
+    color: #2D2D2D;
+}
+
+.main-card h1 {
+    font-size: 20px;
+    margin: 1rem auto;
+}
+
+.main-card p {
+    font-size: 17px;
+}
+.section-title{
+    width: ;
+    height: ;
+    display: flex;
+    justify-content: center;
+    size: 30%;
+}
